@@ -1,0 +1,14 @@
+body{
+	padding-top: 50px;
+	background: url("aurora.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.container{
+	padding: 30px;
+	height: 400px;
+	width: 300px;
+	margin: auto;
+	border: 2px dashed white;
+	background: rgba(255, 255, 255, 0.1);
+}

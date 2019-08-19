@@ -1,0 +1,37 @@
+body{
+	background: black;
+	color: white;
+}
+.logoutbtn{
+	padding: 15px 15px 15px 15px;
+	border-radius: 10px;
+	width: 50px;
+	height: 30px;
+	float: right;
+}
+.logoutbtn a{
+	color: white;
+	text-decoration:none;
+}
+.logoutbtn:hover{
+	background-color: rgba(255,255,255, 0.1);
+}
+.content{
+	height: 400px;
+	width: 800px;
+	margin: auto;
+	align-content: center;
+}
+.photo{
+	margin: auto;
+	display: block;
+	float: left;
+}
+img{
+	margin: 50px;
+	width: 250px;
+	height: 250px;
+}
+.content h1{
+	text-align: center;
+}
